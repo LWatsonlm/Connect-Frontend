@@ -30,3 +30,4 @@ For this repo, please install dependencies using ```npm install```.  For the API
 * Update CSS
 
 Created by [@lizafloyd](https://github.com/lizafloyd), [@LWatsonlm](https://github.com/LWatsonlm) & [@a-espioza](https://github.com/a-espinoza/)
+For General Assembly's WDI Program: Project 3.
